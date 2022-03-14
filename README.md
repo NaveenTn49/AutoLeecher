@@ -1,4 +1,4 @@
-# Telegram Torrent Leecher 🔥🤖
+# Telegram Torrent Leecher 
 
 ```
 TESTED REPO WORKING FINE FOR ME ABUSE=BAN ON Her*ku...
@@ -10,7 +10,7 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
 
 ### The Easy Way
 
-Do Not Abuse 🥺, Better Use Public Leech Groups
+Do Not Abuse , Better Use Public Leech Groups
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
@@ -39,7 +39,7 @@ IF You want to Use this Bot Use in Closed Supergroup Avoid Giving Access to Untr
 Simply clone the repository and run the main file:
 
 ```sh
-git clone https://github.com/Omkar47/AutoLeecher.git
+git clone https://github.com/NaveenTn49/AutoLeecher.git
 cd AutoLeecher
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
@@ -139,23 +139,13 @@ class Config(Config):
 
 * send any one of the available command, as a reply to a valid link.
 
-* if file is larger than 2000MB, [read this](https://t.me/c/1434259219/113).
+* if file is larger than 2000MB, [read this](https://t.me/naveenleech49_bot).
 
-* if file is a TAR archive, [read this](https://t.me/c/1434259219/104) to know how to uncompress.
+* if file is a TAR archive, [read this](https://t.me/naveenleech49_bot) to know how to uncompress.
 
 
 ## Issues or Feature Requests
 
-* search for known issues, [here](https://t.me/c/1434259219/118).
+* search for known issues, [here](https://t.me/naveenleech49_bot).
 
 * add issues / feature requests, [here](https://github.com/SpEcHiDe/PublicLeech/issues/new).
-
-
-## Credits, and Thanks to
-* [Me](https://telegram.dog/APDBUGS)
-* [SPECHIDE](https://github.com/SpEcHIDe/PublicLeech)
-* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [Robots](https://telegram.dog/Robots) for their [@UploadBot](https://telegram.dog/UploadBot)
-* [@AjeeshNair](https://telegram.dog/AjeeshNait) for his [torrent.ajee.sh](https://torrent.ajee.sh)
-* [@gotstc](https://telegram.dog/gotstc), @aryanvikash, [@HasibulKabir](https://telegram.dog/HasibulKabir) for their TORRENT groups
-* [![CopyLeft](https://telegra.ph/file/b514ed14d994557a724cb.jpg)](https://telegra.ph/file/fab1017e21c42a5c1e613.mp4 "CopyLeft Credit Video")
